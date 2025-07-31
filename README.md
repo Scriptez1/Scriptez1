@@ -20,9 +20,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/scriptez1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scriptez1" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptez1&show_icons=true&locale=en&layout=compact" alt="scriptez1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptez1&show_icons=true&locale=en" alt="scriptez1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptez1&" alt="scriptez1" /></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptez1&show_icons=true&locale=en&layout=compact" alt="Scriptez1" /></p>
+<br><br><br><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Scriptez1&show_icons=true&locale=en" alt="Scriptez1" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scriptez1/Scriptez1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Scriptez1/Scriptez1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Scriptez1/Scriptez1/output/github-contribution-grid-snake.svg">
+</picture>
