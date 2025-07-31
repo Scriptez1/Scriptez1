@@ -24,7 +24,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Scriptez1&show_icons=true&locale=en" alt="Scriptez1" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scriptez1/Scriptez1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Scriptez1/Scriptez1/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Scriptez1/Scriptez1/output/github-contribution-grid-snake.svg" />
 </picture>
