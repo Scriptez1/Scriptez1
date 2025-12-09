@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Scriptez1</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<div align="center">
+  <img height="300" alt="v2 1 thumbnail" src="https://github.com/user-attachments/assets/cf62e1cd-ddc5-4f9a-8f63-7fbec3bc2e51"/>
+</div>
 
 - 🔭 I’m currently working on [RedXFreeSteamInstaller](https://github.com/Scriptez1/RedXFreeSteamInstaller)
 
@@ -22,8 +25,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/scriptez1">
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scriptez1" /></a></p><br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptez1&show_icons=true&locale=en&layout=compact" alt="Scriptez1" /></p>
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scriptez1" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scriptez1/Scriptez1/output/github-contribution-grid-snake-dark.svg" />
