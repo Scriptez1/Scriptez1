@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Scriptez1</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
 <div align="center">
 <img width="1376" height="768" alt="a" src="https://github.com/user-attachments/assets/0ac0aa73-fa26-43ae-9ad9-173a96b97da7" />
 </div>
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@dokuman_tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dokuman_tv" height="30" width="40" /></a>
-<a href="https://discord.gg/x5XSGGWrMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x5XSGGWrMA" height="30" width="40" /></a>
+<a href="https://discord.gg/FXhFrV3rqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x5XSGGWrMA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
