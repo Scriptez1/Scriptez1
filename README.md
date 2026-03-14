@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scriptez1</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <div align="center">
-  <img height="300" alt="v2 1 thumbnail" src="https://github.com/user-attachments/assets/cf62e1cd-ddc5-4f9a-8f63-7fbec3bc2e51"/>
+<img width="1376" height="768" alt="a" src="https://github.com/user-attachments/assets/0ac0aa73-fa26-43ae-9ad9-173a96b97da7" />
 </div>
 
 - 🔭 I’m currently working on [RedXFreeSteamInstaller](https://github.com/Scriptez1/RedXFreeSteamInstaller)
